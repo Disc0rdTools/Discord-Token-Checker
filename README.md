@@ -12,7 +12,7 @@ A fast Discord Token Checker with GUI
 
 ## 🚀 Milestones
 
-- 15 Stars - Add support for proxies
+- 15 Stars - Add support for proxies, input from file/clipboard
 - 30 Stars - Add more export filters
 - 50 Stars - Implement multithreading and options for nitro tokens
 - 80 Stars - Release the source code
