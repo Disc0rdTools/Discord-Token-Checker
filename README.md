@@ -1,2 +1,26 @@
 # Discord-Token-Checker
 A fast Discord Token Checker with GUI
+
+## 🔥 Features
+- Display all tokens in a table, with multiple filters
+- Possibility to export in JSON, and by token status (Invalid, Worked, Locked)
+- User Friendly Interface
+- Fast Speeds
+- Simple & Easy Setup
+- Options to check Guild Count, DM History, Friend Count, Payment method
+- Options to show Username, Global Name, ID, Nitro status, Creation Date, Email, Phone Number, Flags, Locale, Bio, etc.
+
+## 🚀 Milestones
+
+- 15 Stars - Add support for proxies
+- 30 Stars - Add more export filters
+- 50 Stars - Implement multithreading and options for nitro tokens
+- 80 Stars - Release the source code
+
+## 🖼️ Screenshots
+
+![Token Checker 1](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/650080a0-7934-4cba-bcfd-f9c4ec1b7ecd)  
+![Token Checker 2](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/1e103a7a-dfd7-42fd-9008-4a348461e57a)  
+![Token Checker 3](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/e69421e3-f275-460a-9935-116381ba4fb9)  
+![Token Checker 4](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/a7b15021-a7e6-4059-a26e-a8c500207c13)  
+![Token Checker 5](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/5c49d448-18b6-4a46-af0c-4d8d806c8fc2)  
