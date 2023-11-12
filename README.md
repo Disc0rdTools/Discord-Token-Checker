@@ -19,6 +19,7 @@ A fast Discord Token Checker with GUI
 
 ## 🖼️ Screenshots
 
+![Token Checker 0](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/fbfc8f2e-064a-4bfb-ae3f-8768e97957fb)  
 ![Token Checker 1](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/650080a0-7934-4cba-bcfd-f9c4ec1b7ecd)  
 ![Token Checker 2](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/1e103a7a-dfd7-42fd-9008-4a348461e57a)  
 ![Token Checker 3](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/e69421e3-f275-460a-9935-116381ba4fb9)  
