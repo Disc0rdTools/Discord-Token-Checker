@@ -23,4 +23,9 @@ A fast Discord Token Checker with GUI
 ![Token Checker 2](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/1e103a7a-dfd7-42fd-9008-4a348461e57a)  
 ![Token Checker 3](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/e69421e3-f275-460a-9935-116381ba4fb9)  
 ![Token Checker 4](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/a7b15021-a7e6-4059-a26e-a8c500207c13)  
-![Token Checker 5](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/5c49d448-18b6-4a46-af0c-4d8d806c8fc2)  
+![Token Checker 5](https://github.com/Disc0rdTools/Discord-Token-Checker/assets/138772998/5c49d448-18b6-4a46-af0c-4d8d806c8fc2) 
+
+### ❓ Why not open source yet?
+
+The code is not open source because I have already seen at least 3 people modify the GitHub link in another one of my open source tools to resell it. That's why I'm waiting for it to reach 80 stars before publishing it, to make sure it can be easily found and prevent people from buying it from resellers.  
+And this is not malicious, you can easily track the background connect requests, it only connects to discord.com.
