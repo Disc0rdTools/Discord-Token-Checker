@@ -1,6 +1,9 @@
 # Discord-Token-Checker
 A fast Discord Token Checker with GUI
 
+### Download link : https://github.com/Disc0rdTools/Discord-Token-Checker/releases/download/v1/Discord.Token.Checker.zip
+[![Github All Releases](https://img.shields.io/github/downloads/Disc0rdTools/Discord-Token-Checker/total.svg?label=Downloads%20Count%3A)]()
+
 ## 🔥 Features
 - Display all tokens in a table, with multiple filters
 - Possibility to export in JSON, and by token status (Invalid, Worked, Locked)
